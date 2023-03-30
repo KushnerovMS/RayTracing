@@ -10,6 +10,5 @@ The one object, engine can draw, is ellipsoid (of course circle is easier to cal
 
 ## Examples of render
 
-![JumpingBalls]{Examples/JumpingBalls.gif}
-
-![VirusCell]{Examples/VirusCell.gif}
+![JumpingBalls](Examples/JumpingBalls.gif)
+![VirusCell](Examples/VirusCell.gif)
